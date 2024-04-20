@@ -1,3 +1,3 @@
-# It's a fork of https://github.com/microsoft/mssql-django
+It's a fork of https://github.com/microsoft/mssql-django
 
-# Contains a few fixes in SQL queries
+Contains a few fixes in SQL queries
